@@ -74,32 +74,6 @@ wget -N https://rms.minerlove.com/install.sh; chmod +x ./install.sh; ./install.s
 - 下载地址：  
     https://github.com/stminer/RMS/raw/main/windows-no-gui/rms.exe
 
-## 旧版RMS2安装
-
-运行以下命令即可安装旧版RMS2：
-
-- 线路1（GitHub 官方地址，若无法访问请使用其他线路）：
-
-```
-bash <(curl -s -L https://raw.githubusercontent.com/stminer/RMS/main/OLD_2/install.sh)
-```
-
-- 线路2：
-
-```
-bash <(curl -s -L -k https://ST Miner.com/OLD2_install.sh)
-```
-
-### 旧版RMS2图形化界面版本
-- 下载地址：  
-  https://github.com/stminer/RMS/raw/main/OLD_2/windows-gui/rms.exe
-  
-- 如遇白屏问题，请安装 WebView2：  
-  https://github.com/stminer/RMS/raw/main/OLD_2/windows-gui/MicrosoftEdgeWebview2Setup.exe
-
-### 非图形化命令行版本
-- 下载地址：  
-    https://github.com/stminer/RMS/raw/main/OLD_2/windows-no-gui/rms.exe
 
 # 使用指南
 
